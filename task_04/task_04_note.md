@@ -1,0 +1,2 @@
+1. 只要父级元素设置了position值（absolute或者relative），那么子元素的position都是以父级元素来定位的。
+2. 如果父级元素不含有position属性，子元素则会以离最近的含position的祖先来定位。
